@@ -49,8 +49,8 @@ CSE422_ML_Project/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/SartajPrattoy/CSE422-AI-.git
-   cd CSE422-AI-
+   git clone https://github.com/SartajPrattoy/CSE422-Heart-Disease-Prediction.git
+   cd CSE422-Heart-Disease-Prediction
    ```
 
 2. **Install required packages:**
